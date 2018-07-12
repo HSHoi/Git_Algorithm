@@ -2,11 +2,6 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include "pcl\point_cloud.h"
-#include "pcl/io/pcd_io.h"
-#include "pcl/filters/statistical_outlier_removal.h"
-
-
 
 int arr[1000];
 int d[1000];
